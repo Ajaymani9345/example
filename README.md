@@ -1,3 +1,3 @@
-# example-repost
+# example-repostis
 practice
 my repository
